@@ -6,7 +6,7 @@ and semi-supervised (**Self-Training Classifier**).
 The dataset used to train the models has 450 entries, comprising of 15 teachers, with each teacher having 
 30 review entries to their name.
 
-See the file `final_dataset_teacher.csv` for the training dataset.
+See the file `final_complete_dataset_teacher.csv` for the training dataset.
 
 ## Testing (Benchmark) Dataset Details
 A uniform benchmark dataset of 250 entries has been used to test the performance of the models and analyse 
